@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="527bc317-21e0-449c-9a3a-1776ee371e08" name="Default Changelist" comment="" />
+    <list default="true" id="527bc317-21e0-449c-9a3a-1776ee371e08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HomeWorkVer2.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +31,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Go Application" />
         <option value="Go File" />
       </list>
     </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j43BW6159L3C5WuSEMLY1kLD7S" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -27,16 +52,7 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Go Build.go build 19.10.20.go">
-    <configuration name="go build 18_10_20.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="AtTheHome" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/18_10_20.go" />
-      <package value="AtTheHome" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build HomeWorkVer2.go">
     <configuration name="go build 19_10_20.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="AtTheHome" />
       <working_directory value="$PROJECT_DIR$" />
@@ -60,15 +76,71 @@
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/19.10.20.go" />
+      <package value="Project1" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 19.10.20.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="AtTheHome" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/19.10.20.go" />
+      <package value="Project1" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build 19.10.20.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="AtTheHome" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/19.10.20.go" />
       <package value="AtTheHome" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build HomeWorkVer2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="AtTheHome" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/HomeWorkVer2.go" />
+      <package value="Project1" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build HomeWork_20.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="AtTheHome" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/HomeWork_20.go" />
+      <package value="Project1" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build new.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="AtTheHome" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/new.go" />
+      <package value="Project1" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build struct.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="AtTheHome" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/struct.go" />
+      <package value="Project1" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build 19.10.20.go" />
+        <item itemvalue="Go Build.go build HomeWorkVer2.go" />
+        <item itemvalue="Go Build.go build HomeWork_20.go" />
+        <item itemvalue="Go Build.go build struct.go" />
+        <item itemvalue="Go Build.go build new.go" />
         <item itemvalue="Go Build.go build 19_10_20.go" />
-        <item itemvalue="Go Build.go build 18_10_20.go" />
       </list>
     </recent_temporary>
   </component>
@@ -76,26 +148,54 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1603084548465">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1603206653964">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603084548465" />
-    <state width="637" height="172" key="GridCell.Tab.0.bottom" timestamp="1603136705020">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603206653964" />
+    <state width="637" height="172" key="GridCell.Tab.0.bottom" timestamp="1603226736550">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603136705020" />
-    <state width="637" height="172" key="GridCell.Tab.0.center" timestamp="1603136705020">
+    <state width="637" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603226736550" />
+    <state width="637" height="172" key="GridCell.Tab.0.center" timestamp="1603226736550">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603136705020" />
-    <state width="637" height="172" key="GridCell.Tab.0.left" timestamp="1603136705020">
+    <state width="637" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603226736550" />
+    <state width="637" height="172" key="GridCell.Tab.0.left" timestamp="1603226736550">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603136705020" />
-    <state width="637" height="172" key="GridCell.Tab.0.right" timestamp="1603136705020">
+    <state width="637" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603226736550" />
+    <state width="637" height="172" key="GridCell.Tab.0.right" timestamp="1603226736550">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="637" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603136705020" />
+    <state width="637" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603226736550" />
+    <state width="637" height="219" key="GridCell.Tab.1.bottom" timestamp="1603224059735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="219" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603224059735" />
+    <state width="637" height="219" key="GridCell.Tab.1.center" timestamp="1603224059735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="219" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1603224059735" />
+    <state width="637" height="219" key="GridCell.Tab.1.left" timestamp="1603224059735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="219" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1603224059735" />
+    <state width="637" height="219" key="GridCell.Tab.1.right" timestamp="1603224059735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="637" height="219" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1603224059735" />
   </component>
 </project>
